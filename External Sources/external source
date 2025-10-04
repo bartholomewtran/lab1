@@ -8,7 +8,9 @@
     Write a program that lets the user enter the loan amount, number of years, and
     interest rate and displays the amortization schedule for the loan.
 
-
+    Find:
+    - Monthly Payment
+    - Total Payment
 
 6.22 Math: Approximate the square root
 
