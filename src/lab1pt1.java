@@ -1,4 +1,12 @@
 /*
+Bartholomew Tran
+F25 CIS D035A 11Y, 62Z Java Programming
+Assignment 1
+Due Date: October 12, 2025
+Date Submitted: October 8, 2025
+*/
+
+/*
 
 1. DESIGN
 
