@@ -10,7 +10,7 @@ Loops will be utilized to maximize efficiency and allow for flexibility per user
 
 */
 
-import java.util.Scanner;
+import java.util.Scanner; //import for scanner
 
 
 public class lab1pt1 {
@@ -133,14 +133,14 @@ Any length and principal amount of a loan can be input with no issues.
                 newBalance = 0.00;
             }
 
-            /*
+/*
 
-            4b. PRINT PT 2
+4b. PRINT PT 2
 
-            The following is the print function for each row every month in a loan. The print is still in the loop
-            so that every month is calculated. It has been formatted to seamlessly align with the header.
+The following is the print function for each row every month in a loan. The print is still in the loop
+so that every month is calculated. It has been formatted to seamlessly align with the header.
 
-             */
+*/
             // Print the Row
             System.out.printf("\t%5d\t%,15.2f\t%,15.2f\t%,15.2f\n", j, interestPaid, principalPaid, newBalance);
 
