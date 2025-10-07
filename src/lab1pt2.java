@@ -1,9 +1,7 @@
-import java.io.*;
-import java.util.Formatter;
 import java.util.Scanner;
 
 
-public class part2 {
+public class lab1pt2 {
     public static void main(String[] args) {
 
         System.out.println("Enter number that you want to find the square root of: ");
