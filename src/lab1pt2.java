@@ -31,7 +31,7 @@ that the program uses to store its mathematical approximations, which means its 
 meant to change.
 
  */
-        System.out.println("Enter number that you want to find the square root of: ");
+        System.out.println("Enter positive number that you want to find the square root of: ");
         Scanner input = new Scanner(System.in); //Scanner to input number
 
         double n = input.nextDouble();
