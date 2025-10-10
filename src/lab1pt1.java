@@ -85,7 +85,7 @@ calculate the exponent. In our cases, Math.pow(i + 1, n) represents (i + 1)^n.
         double M = loanAmt * (i *  Math.pow(i + 1, n)) / (Math.pow(i + 1, n) - 1);
 
         //find total payment
-        double totalPayment = M * 12;
+        double totalPayment = M * 12 * loanYear;
 
 /*
 
