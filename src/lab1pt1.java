@@ -173,9 +173,9 @@ Loan Amount:  20000
 Number of Years: 5
 Annual Interest Rate: 5
 Monthly Payment: $377.42
-Total Payment: $4,529.10
+Total Payment: $22,645.48
 ------------------------------------------------------------------
-	Payment #	   Interest ($)	  Principle ($)	   Balance ($)
+	Payment #	   Interest ($)	  Principle ($)	  Balance ($)
 ------------------------------------------------------------------
 	    1	          83.33	         294.09	      19,705.91
 	    2	          82.11	         295.32	      19,410.59
@@ -250,9 +250,9 @@ Loan Amount:  10000
 Number of Years: 2
 Annual Interest Rate: 7
 Monthly Payment: $447.73
-Total Payment: $5,372.71
+Total Payment: $10,745.42
 ------------------------------------------------------------------
-	Payment #	   Interest ($)	  Principle ($)	   Balance ($)
+	Payment #	   Interest ($)	  Principle ($)	  Balance ($)
 ------------------------------------------------------------------
 	    1	          58.33	         389.39	       9,610.61
 	    2	          56.06	         391.66	       9,218.94
